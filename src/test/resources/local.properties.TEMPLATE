@@ -1,0 +1,3 @@
+default.username=<login>
+default.password=<password>
+default.chrome_options=<chrome-options>
